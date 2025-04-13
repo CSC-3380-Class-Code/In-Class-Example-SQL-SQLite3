@@ -1,0 +1,7 @@
+bin/
+obj/
+EXCELDATA/
+
+TableCreation.sql
+
+.DS_Store
