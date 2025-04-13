@@ -13,6 +13,3 @@ terminal within the "Queries" folder.
 
 If that works, feel free to play around writing queries and seeing the
 output of the other queries in `Database/ExampleQuesries.sql` file
-
-If at any point you need to reset the example database, run the command
-`sqlite3 store.db < TableCreation.sql`
